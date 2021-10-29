@@ -1,4 +1,4 @@
-# Dataset-Daun Belimbing Wuluh dan Daun Nangka_437_
+# Dataset-Daun Belimbing Wuluh dan Daun Nangka_2019-437_2017-154
 
 # Daun Belimbing Wuluh
 
@@ -21,3 +21,18 @@ Daun belimbing wuluh memiliki manfaat bagi kesehatan seperti:
 # Kandungan Gizi
 
 Daun belimbing wuluh memiliki kandungan saponin, tannin, steroid, flavonoid, dan alkaloid yang dibutuhkan oleh tubuh.
+
+# Daun Nangka
+
+Daun Nangka adalah Daun dari tumbuhan nangka telah dimanfaatkan masyarakat sebagai obat batuk, penyakit saluran pencernaan, bisul, luka, dan berbagai penyakit kulit. 
+
+# Manfaat
+
+Daun nangka memiliki manfaat bagi kesehatan seperti:
+
+1. Menghambat pertumbuhan bakteri penyebab infeksi
+2. Menyembuhkan luka terbuka
+3. Meredakan inflamasi
+4. meredakan Nyeri
+5. Menangkal radikal bebas
+
